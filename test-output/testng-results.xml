@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-08-25T01:39:56 IST" name="Suite" finished-at="2020-08-25T01:39:57 IST" duration-ms="86">
+    <groups>
+    </groups>
+    <test started-at="2020-08-25T01:39:56 IST" name="Test" finished-at="2020-08-25T01:39:57 IST" duration-ms="86">
+      <class name="Execution.Paralleltest">
+        <test-method signature="g()[pri:0, instance:Execution.Paralleltest@25d250c6]" started-at="2020-08-25T01:39:57 IST" name="g" finished-at="2020-08-25T01:39:57 IST" duration-ms="28" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- g -->
+        <test-method signature="h()[pri:0, instance:Execution.Paralleltest@25d250c6]" started-at="2020-08-25T01:39:57 IST" name="h" finished-at="2020-08-25T01:39:57 IST" duration-ms="28" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- h -->
+      </class> <!-- Execution.Paralleltest -->
+      <class name="Execution.Parallel">
+        <test-method signature="i()[pri:0, instance:Execution.Parallel@4df50bcc]" started-at="2020-08-25T01:39:57 IST" name="i" finished-at="2020-08-25T01:39:57 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- i -->
+        <test-method signature="j()[pri:0, instance:Execution.Parallel@4df50bcc]" started-at="2020-08-25T01:39:57 IST" name="j" finished-at="2020-08-25T01:39:57 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- j -->
+      </class> <!-- Execution.Parallel -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
